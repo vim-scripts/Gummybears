@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3922
+
+This is a rewrite of the old version of gummybears, since the code in this current version is readable.
+
+It's dark pastel theme that kinda reminds me of Gummy bears, it's based on Jellybeans.
+
+Gummybears supports 256-color terminal and GVim / MacVim.
+
+Github repo: https://github.com/jelera/vim-gummybears-colorscheme
+
+Screenshots
+Graphical Vim (GVIM / MacVim): http://imgur.com/a/t1A10
+256-color Terminal : http://imgur.com/a/c9uFa
